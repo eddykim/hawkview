@@ -1,6 +1,6 @@
 # HawkView Privacy Policy
 
-Effective: 2026-11-17 · Korean original: [PRIVACY.md](PRIVACY.md) (the Korean text governs if they differ)
+Effective: 2026-11-18 · Korean original: [PRIVACY.md](PRIVACY.md) (the Korean text governs if they differ)
 
 "The app" means HawkView, an image viewer that looks and works the same on Mac and Windows. "We" means Youngjoon Kim, who makes and distributes the app. This policy covers the app, the app site (https://hawkviewer.app) and the support email.
 

@@ -1,6 +1,6 @@
 # HawkView Terms of Use
 
-Effective: 2026-11-17 · Korean original: [TERMS.md](TERMS.md) (the Korean text governs if they differ)
+Effective: 2026-11-18 · Korean original: [TERMS.md](TERMS.md) (the Korean text governs if they differ)
 
 These terms set the conditions for using HawkView, an image viewer that looks and works the same on Mac and Windows ("the app"). The app's rights holder ("we") is Youngjoon Kim. By installing or using the app you agree to these terms. If you do not agree, please delete the app.
 
